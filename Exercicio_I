@@ -1,0 +1,6 @@
+Na classe oficina com a extensão Ramdon é puxado números aleatórios, então é definido
+que codigo é igual random, após isso é definido um If que se o número for par ele irá 
+imprimir Automovel e se for impar irá imprimir Bicicleta.
+
+E no App UsaOficina é usado um for com o contador i, enquanto i menor que 4, é adicionado +1 no contador.
+E dentro do for é puxado a classe oficina e a oficina com o  metodo revisar.
